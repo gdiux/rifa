@@ -1,4 +1,4 @@
 # start of file
 user-agent: *
 allow: /
-Sitemap: https://christiangazabon.ddns.net/sitemap.xml
+Sitemap: https://javierpalacio.ddns.net/sitemap.xml
